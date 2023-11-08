@@ -40,7 +40,7 @@ class LoginForm extends StatelessWidget {
           SizedBox(height: 16.h,),
           const CheckBoxWidget(),
           SizedBox(height: 150.h,),
-          const XStationButtonCustom(),
+          const XStationButtonCustom(textButton:TextManager.next),
           SizedBox(height: 23.h,),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
