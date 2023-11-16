@@ -1,5 +1,4 @@
-class TextManager
-{
+class TextManager {
   static const String appName = "Xstation";
 
   static const String serviceBecomeEasier = "Services become easier";
@@ -16,7 +15,16 @@ class TextManager
   static const String next = "Next";
   static const String newMember = "New Member?";
   static const String registerNow = "Register Now";
-
-
-
+  static const String getstarted = "Get Started";
+  static const String creataccount = "by creating a free account";
+  static const String firstname = "First name";
+  static const String lastname = "Last name";
+  static const String username = "User name";
+  static const String validemail = "Valid email";
+  static const String phonenumber = "Phone number";
+  static const String checkbox =
+      "By checking the box you agree to our Terms and Conditions.";
+  static const String continuee = "Continue";
+  static const String alreadymember = "Already a member?";
+  static const String login = "Log In";
 }
